@@ -69,7 +69,7 @@ END:VCARD`;
       </span>
       {/* <h2>Manage media content and mobilize a team of 50+</h2> */}
       <div className="website-link-container">
-        <a href="">
+        <a href="https://www.kfanthony.com/" target="blank">
         <img src={world} height={40} alt="" />
         <p>KFANTHONY.COM</p>          
         </a>
